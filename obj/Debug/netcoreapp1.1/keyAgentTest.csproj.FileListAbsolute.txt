@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\keyAgentTest\keyAgentTest\bin\Debug\netcoreapp1.1\keyAgentTest.deps.json
+C:\Users\user\source\repos\keyAgentTest\keyAgentTest\bin\Debug\netcoreapp1.1\keyAgentTest.runtimeconfig.json
+C:\Users\user\source\repos\keyAgentTest\keyAgentTest\bin\Debug\netcoreapp1.1\keyAgentTest.runtimeconfig.dev.json
+C:\Users\user\source\repos\keyAgentTest\keyAgentTest\bin\Debug\netcoreapp1.1\keyAgentTest.dll
+C:\Users\user\source\repos\keyAgentTest\keyAgentTest\bin\Debug\netcoreapp1.1\keyAgentTest.pdb
+C:\Users\user\source\repos\keyAgentTest\keyAgentTest\obj\Debug\netcoreapp1.1\keyAgentTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\keyAgentTest\keyAgentTest\obj\Debug\netcoreapp1.1\keyAgentTest.AssemblyInfo.cs
+C:\Users\user\source\repos\keyAgentTest\keyAgentTest\obj\Debug\netcoreapp1.1\keyAgentTest.dll
+C:\Users\user\source\repos\keyAgentTest\keyAgentTest\obj\Debug\netcoreapp1.1\keyAgentTest.pdb
